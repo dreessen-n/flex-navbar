@@ -36,9 +36,10 @@ li {
 }
 
 .btn {
-    background-color: aqua;
+    background-color: steelblue;
     color: white;
     padding: 5px;
+    border: 2px solid black;
     border-radius: 5px;
     width: 75px;
 }
