@@ -5,3 +5,40 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+.nav {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-title {
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    justify-items: end;
+    justify-content: space-evenly;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    padding: 4px 10px;
+    margin: 4px;
+}
+
+.btn {
+    background-color: aqua;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 75px;
+}
